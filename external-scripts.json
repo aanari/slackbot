@@ -1,4 +1,6 @@
 [
+  "hubot-ambush",
+  "hubot-calculator",
   "hubot-darksky",
   "hubot-diagnostics",
   "hubot-fliptable",
@@ -11,5 +13,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-tell",
+  "hubot-whiteboardcleaner",
   "hubot-youtube"
 ]
